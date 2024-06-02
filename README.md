@@ -1,5 +1,6 @@
 # Exercise-platform
 Install the necessary files:-
+
 pip install mediapipe :-
 
 pip install open-cv python
